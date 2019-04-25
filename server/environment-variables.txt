@@ -1,0 +1,2 @@
+SECRET_KEY=secret
+APIKEY=4PR1oCaUSQGUGVlt3EYlcebMudldnwjn77z8dkmV
